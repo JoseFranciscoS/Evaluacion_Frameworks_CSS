@@ -1,0 +1,30 @@
+.banner {
+  background: url('../images/background.jpg') no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+} 
+
+.img-rounded {
+    border-radius: 16px;   
+}
+.step {
+    display: inline-block;
+    line-height: 1;
+    width: 10%;
+}
+.size-36 {
+	font-size: 36px;
+}
+.alineacion{
+	text-align: center;
+}
+.fondo{
+      background: rgba(233,233,233,0.85) !important;
+}
+small { 
+    color: palevioletred !important;
+	font-size: 0.7em !important;
+}
+.bordeinferior{
+	border-bottom: solid palevioletred; 
+}
